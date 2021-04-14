@@ -13,8 +13,8 @@
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
       "image": "./assets/ramen/naruto.jpg",
-      "rating": "100",
-      "comment": "the besssssssst ramen "
+      "rating": "99",
+      "comment": "ok ramen"
     },
     {
       "id": 3,
@@ -37,7 +37,7 @@
       "name": "Kojiro Red Ramen",
       "restaurant": "Ramen-Ya",
       "image": "./assets/ramen/kojiro.jpg",
-      "rating": 6,
+      "rating": "100 bruh",
       "comment": "Perfect for a cold night."
     }
   ]
